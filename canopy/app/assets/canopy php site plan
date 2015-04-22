@@ -1,0 +1,16 @@
+canopy php site plan
+
+responsive ideas
+	- laptop and desktop are full page tree with animations
+	- Tablet is a tree without animations
+	- mobile is picture frames with some animals in the BG
+		- Best way to do this? Load different view if mobile vs Desktop?
+		- Are views within views possible? (look into this)
+		- Ask Dan and Chris? Try to establish connection with Mo and J?
+
+
+index (main page) - view of tree with views for the picture frames 
+inner pages - views of page with view of inner content inside it?
+
+Widgets: Are widgets in WP just views in PHP? (I think so...) So then couldn't a "widget" view be made for things like the picture frames and possibly the animals?
+
